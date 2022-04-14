@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cindyIsa
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning angular
+- 🌱 I’m currently learning angular & react
 - 💞️ I’m looking to collaborate on web development
 
 
